@@ -1,6 +1,18 @@
 # awesome-alfred-workflow
 Awesome alfred workflow for programmer
 
+collection List:
+1. [wensonsmith/YoudaoTranslator](https://github.com/wensonsmith/YoudaoTranslator)
+2. [stroebjo/alfred-github-stars](https://github.com/stroebjo/alfred-github-stars)
+3. [Acidham/search-alfred-workflows](https://github.com/Acidham/search-alfred-workflows)
+4. [kill-process](https://www.packal.org/workflow/kill-process)
+5. [florianeckerstorfer/alfred-iterm2-tabs](https://github.com/florianeckerstorfer/alfred-iterm2-tabs)
+6. [mrodalgaard/alfred-network-workflow](https://github.com/mrodalgaard/alfred-network-workflow)
+7. [epilande/alfred-browser-tabs](https://github.com/epilande/alfred-browser-tabs)
+8. [Kapeli/Dash-Alfred-Workflow](https://github.com/Kapeli/Dash-Alfred-Workflow)
+9. [cim-flow](https://github.com/o98k-ok/cim-flow)
+10. [iterm-flow](https://github.com/o98k-ok/iterm-flow)
+11. [blutooth-flow](https://github.com/o98k-ok/bluetooth-flow)
 
 ## Introduction
 ### Excellent flows
