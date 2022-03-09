@@ -13,6 +13,7 @@ collection List:
 9. [cim-flow](https://github.com/o98k-ok/cim-flow)
 10. [iterm-flow](https://github.com/o98k-ok/iterm-flow)
 11. [blutooth-flow](https://github.com/o98k-ok/bluetooth-flow)
+12. [app-switch-flow](https://github.com/o98k-ok/app-switch-flow)
 
 ## Introduction
 ### Excellent flows
