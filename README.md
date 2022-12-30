@@ -8,11 +8,13 @@ Awesome alfred workflow for developer
 
 ## Github flows
 * [github-starred-repos](https://github.com/stroebjo/alfred-github-stars)
+* [github-starred-repos-golang-version](https://github.com/o98k-ok/github-starred-repos-flow)
   
   <img width="500" height="300" alt="image" src="https://user-images.githubusercontent.com/63107263/154469981-95d43811-55f9-49ac-a527-c157f933dd0b.png">
 
 ## Alfred flows
 * [alfred-search](https://github.com/Acidham/search-alfred-workflows)
+* [alfred-manager](https://github.com/o98k-ok/alfred-manager-flow)
 
   <img width="500" height="150" alt="image" src="https://user-images.githubusercontent.com/63107263/154470277-8e60f0ac-c35e-4e08-b032-a0124de06b73.png">
 ## System flows
@@ -43,5 +45,10 @@ Awesome alfred workflow for developer
 
   <img width="500" height="150" alt="image" src="https://user-images.githubusercontent.com/63107263/154471044-8acc3c04-4a1d-4cc3-affb-8c9c9e15b52b.png">
 
-## DASH flows
+## Other flows
 * [dash-flow](https://github.com/Kapeli/Dash-Alfred-Workflow)
+* [vscode-flow](https://github.com/o98k-ok/vscode-remote-flow)
+* [lark-doc-search](https://github.com/o98k-ok/lark-doc)
+
+  <img width="500" height="180" alt="image" src="https://user-images.githubusercontent.com/63107263/210094961-7edbaa41-5b85-4382-a539-a6bda3fa4677.png">
+
