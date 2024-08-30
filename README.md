@@ -5,6 +5,9 @@ Awesome alfred workflow for developer
 *  [youdao-translation](https://github.com/wensonsmith/YoudaoTranslator)
 
     ![image](https://github.com/user-attachments/assets/adb7339a-0fcb-4bc6-aba3-af39faf36479)
+* [doutu](https://github.com/o98k-ok/doutu)
+  
+    ![image](https://github.com/user-attachments/assets/b2d06d18-0a43-409c-8a7e-6a4cec5e7032)
 
 ## Github flows
 * [github-starred-repos](https://github.com/stroebjo/alfred-github-stars)
@@ -21,10 +24,17 @@ Awesome alfred workflow for developer
 
 ## System flows
 * [kill-process](https://www.packal.org/workflow/kill-process)
+
+    ![image](https://github.com/user-attachments/assets/8c6a5949-368e-4a5d-9978-d2089ba2c63c)
+
 * [network](https://github.com/mrodalgaard/alfred-network-workflow)
 * [app-switch](https://github.com/o98k-ok/app-switch-flow)
 * [blutooth-flow](https://github.com/o98k-ok/bluetooth-flow)
+  
+    ![image](https://github.com/user-attachments/assets/e932cb2c-b6b8-47e2-9518-209a22e1808e)
+
 * [wallpaper-switch](https://github.com/o98k-ok/cim-flow)
+* [image-outline](https://github.com/o98k-ok/img-outline)
   
 ## Iterm2 flows
 * [iterm2-login](https://github.com/o98k-ok/iterm-flow)
